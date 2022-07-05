@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp"
+    },
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
